@@ -1,10 +1,12 @@
-### Hi there 👋
+### About Me 👋
+
+I am an Infrastructure Engineer.  
+I am interested in IaC and DevOps, and all the cloud resources on my blog are built with Terraform.  
+On my days off, I either program at home or go to the arcade.    
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuki9431&layout=compact&show_icons=true&theme=onedark" />
 </p>
-I am interested in IaC and DevOps, and all the infrastructure for my blog is built with Terraform.  
-On my days off, I either stay home and Programing or go to the arcade.  
 
 
 ## Skills
