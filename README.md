@@ -48,6 +48,7 @@ On my days off, I either program at home or go to the arcade.
 
 ### Other Tools
 
+- ★★☆☆ Slack
 - ★★★☆ Backlog
 - ★★☆☆ Redmine
 - ★★★★ Zabbix
