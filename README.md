@@ -69,7 +69,7 @@ If I did it twice, it's automated by the third time.
 	<tr>
 		<td><b>🔁 CI/CD</b></td>
 		<td>
-			<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+			<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github&logoColor=white" alt="GitHub Actions"/>
 			<img src="https://img.shields.io/badge/-GitLab_Runner-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab Runner"/>
 		</td>
 	</tr>
