@@ -13,7 +13,7 @@ If I did it twice, it's automated by the third time.
 	<tr>
 		<td><b>☁️ Cloud</b></td>
 		<td>
-			<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
+			<img src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
 			<img src="https://img.shields.io/badge/-OCI-F80000?style=flat-square&logo=oracle&logoColor=white" alt="OCI"/>
 			<img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
 		</td>
