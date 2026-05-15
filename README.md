@@ -1,4 +1,4 @@
-### About Me 👋
+### About Me ☕️
 
 Infrastructure Engineer since 2018  
 If I did it twice, it's automated by the third time.
@@ -18,14 +18,14 @@ If I did it twice, it's automated by the third time.
 		</td>
 	</tr>
 	<tr>
-		<td><b>📦 Container</b></td>
+		<td><b>🚢 Container</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-Docker-3A7CA5?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
 			<img src="https://img.shields.io/badge/-Kubernetes-4668A8?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 		</td>
 	</tr>
 	<tr>
-		<td><b>🖥️ OS</b></td>
+		<td><b>💿 OS</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-Linux-5A5A5A?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
 			<img src="https://img.shields.io/badge/-Windows_Server-3A6EA5?style=flat-square&logoColor=white" alt="Windows Server"/>
@@ -40,7 +40,7 @@ If I did it twice, it's automated by the third time.
 		</td>
 	</tr>
 	<tr>
-		<td><b>🗄️ Database</b></td>
+		<td><b>🛢️ Database</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-PostgreSQL-3A5A7A?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 			<img src="https://img.shields.io/badge/-MariaDB-3A5A6A?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
@@ -48,7 +48,7 @@ If I did it twice, it's automated by the third time.
 		</td>
 	</tr>
 	<tr>
-		<td><b>💻 Languages</b></td>
+		<td><b>📝 Languages</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-Shell_Script-4A7A4A?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
 			<img src="https://img.shields.io/badge/-Go-3A7A8B?style=flat-square&logo=go&logoColor=white" alt="Go"/>
@@ -64,14 +64,14 @@ If I did it twice, it's automated by the third time.
 		</td>
 	</tr>
 	<tr>
-		<td><b>🔁 CI/CD</b></td>
+		<td><b>🚀 CI/CD</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-GitHub_Actions-4A4A4A?style=flat-square&logo=github&logoColor=white" alt="GitHub Actions"/>
 			<img src="https://img.shields.io/badge/-GitLab_Runner-8B5A3A?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab Runner"/>
 		</td>
 	</tr>
 	<tr>
-		<td><b>📊 Monitoring</b></td>
+		<td><b>📈 Monitoring</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-Zabbix-8B3A3A?style=flat-square&logoColor=white" alt="Zabbix"/>
 		</td>
