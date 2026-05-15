@@ -1,8 +1,7 @@
 ### About Me 👋
 
-I am an Infrastructure Engineer.  
-I am interested in IaC and DevOps, and all the cloud resources on my blog are built with Terraform.  
-On my days off, I either program at home or go to the arcade.    
+Infrastructure Engineer since 2018  
+If I did it twice, it's automated by the third time.
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,ansible,linux,go)](https://skillicons.dev)
 
