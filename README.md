@@ -13,7 +13,7 @@ If I did it twice, it's automated by the third time.
 	<tr>
 		<td><b>☁️ Cloud</b></td>
 		<td>
-			<img src="https://img.shields.io/badge/-AWS-3D5A80?style=flat-square&logo=aws&logoColor=white" alt="AWS"/>
+			<img src="https://img.shields.io/badge/-AWS-3D5A80?style=flat-square&logoColor=white" alt="AWS"/>
 			<img src="https://img.shields.io/badge/-Google_Cloud-4A7FB5?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
 		</td>
 	</tr>
@@ -28,7 +28,7 @@ If I did it twice, it's automated by the third time.
 		<td><b>🖥️ OS</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-Linux-5A5A5A?style=flat-square&logo=linux&logoColor=white" alt="Linux"/>
-			<img src="https://img.shields.io/badge/-Windows_Server-3A6EA5?style=flat-square&logo=windowsserver&logoColor=white" alt="Windows Server"/>
+			<img src="https://img.shields.io/badge/-Windows_Server-3A6EA5?style=flat-square&logoColor=white" alt="Windows Server"/>
 		</td>
 	</tr>
 	<tr>
@@ -60,7 +60,7 @@ If I did it twice, it's automated by the third time.
 			<img src="https://img.shields.io/badge/-Terraform-5A3A7A?style=flat-square&logo=terraform&logoColor=white" alt="Terraform"/>
 			<img src="https://img.shields.io/badge/-Pulumi-5A3A6A?style=flat-square&logo=pulumi&logoColor=white" alt="Pulumi"/>
 			<img src="https://img.shields.io/badge/-Ansible-8B3A3A?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/>
-			<img src="https://img.shields.io/badge/-CloudFormation-3D5A80?style=flat-square&logo=aws&logoColor=white" alt="AWS CloudFormation"/>
+			<img src="https://img.shields.io/badge/-CloudFormation-3D5A80?style=flat-square&logoColor=white" alt="AWS CloudFormation"/>
 		</td>
 	</tr>
 	<tr>
@@ -73,22 +73,7 @@ If I did it twice, it's automated by the third time.
 	<tr>
 		<td><b>📊 Monitoring</b></td>
 		<td>
-			<img src="https://img.shields.io/badge/-Zabbix-8B3A3A?style=flat-square&logo=zabbix&logoColor=white" alt="Zabbix"/>
+			<img src="https://img.shields.io/badge/-Zabbix-8B3A3A?style=flat-square&logoColor=white" alt="Zabbix"/>
 		</td>
 	</tr>
 </table>
-
-<!--
-**yuki9431/yuki9431** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
