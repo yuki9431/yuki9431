@@ -45,7 +45,7 @@ If I did it twice, it's automated by the third time.
 		<td>
 			<img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Database"/>
 			<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-			<img src="https://img.shields.io/badge/%20-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+			<img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logoColor=white" alt="MySQL"/>
 			<img src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
 			<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 		</td>
@@ -54,7 +54,7 @@ If I did it twice, it's automated by the third time.
 		<td><b>💻 Languages</b></td>
 		<td>
 			<img src="https://img.shields.io/badge/-Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell Script"/>
-			<img src="https://img.shields.io/badge/%20-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+			<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logoColor=white" alt="Go"/>
 		</td>
 	</tr>
 	<tr>
